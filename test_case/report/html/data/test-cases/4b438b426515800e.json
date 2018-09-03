@@ -1,0 +1,60 @@
+{
+  "uid" : "4b438b426515800e",
+  "name" : "test_case_5_both_error",
+  "fullName" : "duanxin_mydingz_test.test_case_5_both_error",
+  "historyId" : "ee258b3583ef0c46c5e62b16e02b247",
+  "time" : {
+    "start" : 1535944059883,
+    "stop" : 1535944060010,
+    "duration" : 127
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "WIN-2UTDL5VGFJJ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "2040-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "duanxin_mydingz_test"
+  }, {
+    "name" : "testClass",
+    "value" : "duanxin_mydingz_test"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_case_5_both_error"
+  }, {
+    "name" : "package",
+    "value" : "duanxin_mydingz_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4b438b426515800e.json",
+  "parameterValues" : [ ]
+}

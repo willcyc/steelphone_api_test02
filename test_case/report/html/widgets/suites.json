@@ -1,6 +1,17 @@
 {
-  "total" : 9,
+  "total" : 15,
   "items" : [ {
+    "uid" : "aa39d396b22af6eee4dcbc96f9c72dd2",
+    "name" : "Home_advart_test",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 4
+    }
+  }, {
     "uid" : "90a7c3beb7146cd1a9cc3c9084d7f776",
     "name" : "denglu_test",
     "statistic" : {
@@ -32,6 +43,17 @@
       "passed" : 11,
       "unknown" : 0,
       "total" : 11
+    }
+  }, {
+    "uid" : "1007a62aaf4cb951fc0381488e90155c",
+    "name" : "Home_hqmap_test",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 7
     }
   }, {
     "uid" : "af98ec5a8bfc585c01ef3f1954b09120",
@@ -67,8 +89,8 @@
       "total" : 2
     }
   }, {
-    "uid" : "a7c68c57416e1cdd49debd9d577c0c6a",
-    "name" : "bingtu_gangtie_test",
+    "uid" : "cf9ddf466ff0ba80db2daf49d44f3241",
+    "name" : "Home_bingtu_test",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
@@ -78,19 +100,8 @@
       "total" : 1
     }
   }, {
-    "uid" : "f07e13b844696806dcd335782ccb4334",
-    "name" : "bingtu_yuanliao_test",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    }
-  }, {
-    "uid" : "5e960c109891c0f38178ac8c9a7635bc",
-    "name" : "gq_fagongy_test",
+    "uid" : "3c65fe0d4d145ff6317fdc4f8be3227c",
+    "name" : "Home_dibuBottom_test",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,

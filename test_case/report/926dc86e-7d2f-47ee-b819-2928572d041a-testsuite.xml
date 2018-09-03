@@ -1,0 +1,19 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1535944055164" stop="1535944055321">
+  <name>bingtu_yuanliao_test</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1535944055164" status="passed" stop="1535944055321">
+      <description>获取饼图</description>
+      <name>TestYuanLiao.test_Volume_success</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="2040-MainThread"/>
+        <label name="host" value="WIN-2UTDL5VGFJJ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

@@ -1,9 +1,6 @@
 {
-  "Home_indexNotice_test.py::test_indexNotice_success": true,
+  "Home_advart_test.py::test_get_artfirst_success": true,
   "denglu_test.py::TestDengLu::()::test_both_null[url0]": true,
-  "denglu_test.py::test_login[url0]": true,
-  "denglu_test.py::test_login[url1]": true,
-  "denglu_test.py::test_login[url2]": true,
   "duanxin_myunsub_test.py::test_case": true,
   "duanxin_myunsub_test.py::test_logout_0_all_null": true,
   "duanxin_myunsub_test.py::test_logout_10_get_success": true,

@@ -1,0 +1,60 @@
+{
+  "uid" : "758c72c7e86a142c",
+  "name" : "test_get_success",
+  "fullName" : "duanxin_mydingz_test.test_get_success",
+  "historyId" : "25499663e1d71035b15e6fa89685b46",
+  "time" : {
+    "start" : 1535944060012,
+    "stop" : 1535944060340,
+    "duration" : 328
+  },
+  "description" : "查询成功",
+  "descriptionHtml" : "<p>查询成功</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "WIN-2UTDL5VGFJJ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "2040-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "duanxin_mydingz_test"
+  }, {
+    "name" : "testClass",
+    "value" : "duanxin_mydingz_test"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_get_success"
+  }, {
+    "name" : "package",
+    "value" : "duanxin_mydingz_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "758c72c7e86a142c.json",
+  "parameterValues" : [ ]
+}

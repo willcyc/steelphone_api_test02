@@ -1,0 +1,92 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1535944053988" stop="1535944054895">
+  <name>Home_hqmap_test</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1535944053988" status="passed" stop="1535944054126">
+      <name>test_case_0_both_null</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="2040-MainThread"/>
+        <label name="host" value="WIN-2UTDL5VGFJJ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1535944054127" status="passed" stop="1535944054243">
+      <name>test_case_1_id_null</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="2040-MainThread"/>
+        <label name="host" value="WIN-2UTDL5VGFJJ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1535944054244" status="passed" stop="1535944054388">
+      <name>test_case_2_type_error_null</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="2040-MainThread"/>
+        <label name="host" value="WIN-2UTDL5VGFJJ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1535944054389" status="passed" stop="1535944054503">
+      <name>test_case_3_id_error</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="2040-MainThread"/>
+        <label name="host" value="WIN-2UTDL5VGFJJ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1535944054504" status="passed" stop="1535944054611">
+      <name>test_case_4_both_error_null</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="2040-MainThread"/>
+        <label name="host" value="WIN-2UTDL5VGFJJ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1535944054612" status="passed" stop="1535944054749">
+      <description>参数type为空：启动页广告</description>
+      <name>test_hqmap_type_null</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="2040-MainThread"/>
+        <label name="host" value="WIN-2UTDL5VGFJJ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1535944054751" status="passed" stop="1535944054895">
+      <description>行情地图查询成功</description>
+      <name>test_hqmap_success</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="2040-MainThread"/>
+        <label name="host" value="WIN-2UTDL5VGFJJ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

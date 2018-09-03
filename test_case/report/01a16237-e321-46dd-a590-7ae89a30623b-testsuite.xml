@@ -1,0 +1,32 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1535944060342" stop="1535944060600">
+  <name>duanxin_mysearch_test</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1535944060342" status="passed" stop="1535944060477">
+      <description>页码为空</description>
+      <name>test_page_null</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="2040-MainThread"/>
+        <label name="host" value="WIN-2UTDL5VGFJJ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1535944060478" status="passed" stop="1535944060600">
+      <description>查询成功</description>
+      <name>test_get_success</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="2040-MainThread"/>
+        <label name="host" value="WIN-2UTDL5VGFJJ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

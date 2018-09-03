@@ -1,0 +1,60 @@
+{
+  "uid" : "d83da32c44f2bd59",
+  "name" : "test_case_9_machineCode_error",
+  "fullName" : "duanxin_myunsub_test.test_case_9_machineCode_error",
+  "historyId" : "34b11b33fea160cfe1363a710ceac3bc",
+  "time" : {
+    "start" : 1535944063280,
+    "stop" : 1535944063428,
+    "duration" : 148
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "WIN-2UTDL5VGFJJ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "2040-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "duanxin_myunsub_test"
+  }, {
+    "name" : "testClass",
+    "value" : "duanxin_myunsub_test"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_case_9_machineCode_error"
+  }, {
+    "name" : "package",
+    "value" : "duanxin_myunsub_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d83da32c44f2bd59.json",
+  "parameterValues" : [ ]
+}

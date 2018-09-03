@@ -1,0 +1,60 @@
+{
+  "uid" : "452e705cf4091648",
+  "name" : "test_get_success",
+  "fullName" : "gq_fagongy_test.test_get_success",
+  "historyId" : "79ceee8998c336b13cb00099f2d2b5b4",
+  "time" : {
+    "start" : 1535944063552,
+    "stop" : 1535944063688,
+    "duration" : 136
+  },
+  "description" : "供应-发布成功",
+  "descriptionHtml" : "<p>供应-发布成功</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "WIN-2UTDL5VGFJJ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "2040-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "gq_fagongy_test"
+  }, {
+    "name" : "testClass",
+    "value" : "gq_fagongy_test"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_get_success"
+  }, {
+    "name" : "package",
+    "value" : "gq_fagongy_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "452e705cf4091648.json",
+  "parameterValues" : [ ]
+}
