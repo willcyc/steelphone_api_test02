@@ -1,0 +1,60 @@
+{
+  "uid" : "d4a70216517f9252",
+  "name" : "TestGangTie.test_Volume_success",
+  "fullName" : "bingtu_gangtie_test.TestGangTie.test_Volume_success",
+  "historyId" : "548f2fae61243fca2e54e9f61e954ce1",
+  "time" : {
+    "start" : 1535091956070,
+    "stop" : 1535091956183,
+    "duration" : 113
+  },
+  "description" : "获取饼图",
+  "descriptionHtml" : "<p>获取饼图</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "WIN-2UTDL5VGFJJ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "2396-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "bingtu_gangtie_test"
+  }, {
+    "name" : "testClass",
+    "value" : "bingtu_gangtie_test"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestGangTie.test_Volume_success"
+  }, {
+    "name" : "package",
+    "value" : "bingtu_gangtie_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d4a70216517f9252.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,60 @@
+{
+  "uid" : "7bfc3ca9d477667f",
+  "name" : "test_logout",
+  "fullName" : "denglu_test.test_logout",
+  "historyId" : "f8f0945dbd69610cb7c5c5020564abef",
+  "time" : {
+    "start" : 1535091958852,
+    "stop" : 1535091958954,
+    "duration" : 102
+  },
+  "description" : "请求退出登录接口",
+  "descriptionHtml" : "<p>请求退出登录接口</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "WIN-2UTDL5VGFJJ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "2396-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "denglu_test"
+  }, {
+    "name" : "testClass",
+    "value" : "denglu_test"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_logout"
+  }, {
+    "name" : "package",
+    "value" : "denglu_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7bfc3ca9d477667f.json",
+  "parameterValues" : [ ]
+}

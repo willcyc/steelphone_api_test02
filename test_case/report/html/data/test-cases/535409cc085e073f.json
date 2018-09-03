@@ -1,0 +1,60 @@
+{
+  "uid" : "535409cc085e073f",
+  "name" : "test_page_null",
+  "fullName" : "duanxin_mysearch_test.test_page_null",
+  "historyId" : "933488bf83603f7a0c4568fd2ab4268e",
+  "time" : {
+    "start" : 1535091960256,
+    "stop" : 1535091960354,
+    "duration" : 98
+  },
+  "description" : "页码为空",
+  "descriptionHtml" : "<p>页码为空</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "WIN-2UTDL5VGFJJ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "2396-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "duanxin_mysearch_test"
+  }, {
+    "name" : "testClass",
+    "value" : "duanxin_mysearch_test"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_page_null"
+  }, {
+    "name" : "package",
+    "value" : "duanxin_mysearch_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "535409cc085e073f.json",
+  "parameterValues" : [ ]
+}

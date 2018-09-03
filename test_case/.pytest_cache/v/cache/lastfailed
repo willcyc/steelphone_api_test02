@@ -1,0 +1,19 @@
+{
+  "Home_indexNotice_test.py::test_indexNotice_success": true,
+  "denglu_test.py::TestDengLu::()::test_both_null[url0]": true,
+  "denglu_test.py::test_login[url0]": true,
+  "denglu_test.py::test_login[url1]": true,
+  "denglu_test.py::test_login[url2]": true,
+  "duanxin_myunsub_test.py::test_case": true,
+  "duanxin_myunsub_test.py::test_logout_0_all_null": true,
+  "duanxin_myunsub_test.py::test_logout_10_get_success": true,
+  "duanxin_myunsub_test.py::test_logout_1_packId_null": true,
+  "duanxin_myunsub_test.py::test_logout_2_userId_null": true,
+  "duanxin_myunsub_test.py::test_logout_3_machineCode_null": true,
+  "duanxin_myunsub_test.py::test_logout_4_packId_userId_null": true,
+  "duanxin_myunsub_test.py::test_logout_5_packId_machineCode_null": true,
+  "duanxin_myunsub_test.py::test_logout_6_userId_machineCode_null": true,
+  "duanxin_myunsub_test.py::test_logout_7_packId_error": true,
+  "duanxin_myunsub_test.py::test_logout_8_userId_error": true,
+  "duanxin_myunsub_test.py::test_logout_9_machineCode_error": true
+}
