@@ -1,0 +1,32 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1536047543605" stop="1536047543978">
+  <name>duanxin_myNewSms_test</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1536047543605" status="passed" stop="1536047543716">
+      <description>传入页码为空</description>
+      <name>test_page_null</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="7956-MainThread"/>
+        <label name="host" value="WIN-2UTDL5VGFJJ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1536047543717" status="passed" stop="1536047543978">
+      <description>查询成功，断言短信列表按时间降序排序、且为短信-我的定制页面中定制的短信</description>
+      <name>test_get_success01</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="7956-MainThread"/>
+        <label name="host" value="WIN-2UTDL5VGFJJ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

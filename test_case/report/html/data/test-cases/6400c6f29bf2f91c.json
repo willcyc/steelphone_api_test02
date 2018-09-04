@@ -1,0 +1,60 @@
+{
+  "uid" : "6400c6f29bf2f91c",
+  "name" : "test_hqmap_success",
+  "fullName" : "Home_hqmap_test.test_hqmap_success",
+  "historyId" : "144e8950b222dac814a782464b2c786a",
+  "time" : {
+    "start" : 1536047535212,
+    "stop" : 1536047535319,
+    "duration" : 107
+  },
+  "description" : "行情地图查询成功",
+  "descriptionHtml" : "<p>行情地图查询成功</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "WIN-2UTDL5VGFJJ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "7956-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "Home_hqmap_test"
+  }, {
+    "name" : "testClass",
+    "value" : "Home_hqmap_test"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_hqmap_success"
+  }, {
+    "name" : "package",
+    "value" : "Home_hqmap_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6400c6f29bf2f91c.json",
+  "parameterValues" : [ ]
+}

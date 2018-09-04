@@ -1,0 +1,60 @@
+{
+  "uid" : "2ea47cc11c983ee8",
+  "name" : "test_case_0_both_null",
+  "fullName" : "Price_breed_test.test_case_0_both_null",
+  "historyId" : "894096119a3d4e2dde328bc6dd76e0ed",
+  "time" : {
+    "start" : 1536047536774,
+    "stop" : 1536047536898,
+    "duration" : 124
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "WIN-2UTDL5VGFJJ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "7956-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "Price_breed_test"
+  }, {
+    "name" : "testClass",
+    "value" : "Price_breed_test"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_case_0_both_null"
+  }, {
+    "name" : "package",
+    "value" : "Price_breed_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2ea47cc11c983ee8.json",
+  "parameterValues" : [ ]
+}

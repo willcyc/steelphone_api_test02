@@ -1,0 +1,60 @@
+{
+  "uid" : "72fa0de09e4f3d77",
+  "name" : "test_creat_success",
+  "fullName" : "UnifiedOrder_test.test_creat_success",
+  "historyId" : "ae7bf0ae01e501711e42f490dfff6107",
+  "time" : {
+    "start" : 1536047540241,
+    "stop" : 1536047540364,
+    "duration" : 123
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "WIN-2UTDL5VGFJJ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "7956-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "UnifiedOrder_test"
+  }, {
+    "name" : "testClass",
+    "value" : "UnifiedOrder_test"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_creat_success"
+  }, {
+    "name" : "package",
+    "value" : "UnifiedOrder_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "72fa0de09e4f3d77.json",
+  "parameterValues" : [ ]
+}

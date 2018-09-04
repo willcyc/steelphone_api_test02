@@ -27,7 +27,7 @@ def test_get_success01():
 	#print(zuixin)
 
 	#====================读取短信-我的定制页面中定制的短信====================
-	f = open('C:/Users/Administrator/Desktop/桌面文件/steelphone_api_test_v2.0/test_case/html.txt')
+	f = open('E:/git/steelphone_api_test02/test_case/html.txt')
 	jieguo = f.read()
 	#print(jieguo)
 

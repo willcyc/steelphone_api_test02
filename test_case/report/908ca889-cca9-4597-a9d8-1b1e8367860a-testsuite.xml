@@ -1,0 +1,19 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1536047549479" stop="1536047549583">
+  <name>zhuce_second_test</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1536047549479" status="passed" stop="1536047549583">
+      <description>参数均正确</description>
+      <name>test_get_success</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="7956-MainThread"/>
+        <label name="host" value="WIN-2UTDL5VGFJJ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

@@ -1,0 +1,60 @@
+{
+  "uid" : "9b20cbcd4f40de9a",
+  "name" : "test_get_success",
+  "fullName" : "gq_faqiug_test.test_get_success",
+  "historyId" : "f517daf31216fad6359e9b510ea19b27",
+  "time" : {
+    "start" : 1536047547754,
+    "stop" : 1536047547860,
+    "duration" : 106
+  },
+  "description" : "求购-发布成功",
+  "descriptionHtml" : "<p>求购-发布成功</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "WIN-2UTDL5VGFJJ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "7956-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "gq_faqiug_test"
+  }, {
+    "name" : "testClass",
+    "value" : "gq_faqiug_test"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_get_success"
+  }, {
+    "name" : "package",
+    "value" : "gq_faqiug_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9b20cbcd4f40de9a.json",
+  "parameterValues" : [ ]
+}

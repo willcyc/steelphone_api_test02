@@ -46,7 +46,7 @@ if denglu['result'] == 'true':
 			dingzhi.append(dx['name'])
 		#print (dingzhi)
 		#========================将输出结果放入本地TXT文件中========================
-		f = open (r'C:\Users\Administrator\Desktop\桌面文件\steelphone_api_test_v2.0\test_case\html.txt','w')
+		f = open (r'E:\git\steelphone_api_test02\test_case\html.txt','w')
 		print (dingzhi,file = f)
 		f.close()
 

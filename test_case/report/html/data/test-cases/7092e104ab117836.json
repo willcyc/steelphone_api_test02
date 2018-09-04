@@ -1,0 +1,60 @@
+{
+  "uid" : "7092e104ab117836",
+  "name" : "test_HotArticle_art_null",
+  "fullName" : "Home_shuaxin_test.test_HotArticle_art_null",
+  "historyId" : "7ac5b2c13269f767132d96f224043bc8",
+  "time" : {
+    "start" : 1536047535436,
+    "stop" : 1536047535534,
+    "duration" : 98
+  },
+  "description" : "首页文章页码参数为空",
+  "descriptionHtml" : "<p>首页文章页码参数为空</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "WIN-2UTDL5VGFJJ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "7956-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "Home_shuaxin_test"
+  }, {
+    "name" : "testClass",
+    "value" : "Home_shuaxin_test"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_HotArticle_art_null"
+  }, {
+    "name" : "package",
+    "value" : "Home_shuaxin_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7092e104ab117836.json",
+  "parameterValues" : [ ]
+}

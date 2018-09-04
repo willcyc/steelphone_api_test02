@@ -1,17 +1,6 @@
 {
-  "total" : 15,
+  "total" : 40,
   "items" : [ {
-    "uid" : "aa39d396b22af6eee4dcbc96f9c72dd2",
-    "name" : "Home_advart_test",
-    "statistic" : {
-      "failed" : 1,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 3,
-      "unknown" : 0,
-      "total" : 4
-    }
-  }, {
     "uid" : "90a7c3beb7146cd1a9cc3c9084d7f776",
     "name" : "denglu_test",
     "statistic" : {
@@ -45,8 +34,52 @@
       "total" : 11
     }
   }, {
+    "uid" : "0f8b68c9f09e6b4e66e2ce00891956cc",
+    "name" : "Price_city_test",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 9
+    }
+  }, {
+    "uid" : "80bbe6084053aac2daa878789ea34281",
+    "name" : "Price_market_test",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 9
+    }
+  }, {
+    "uid" : "62817509d15aa8802f502996431aab1f",
+    "name" : "zixun_contentarticle_test",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 9
+    }
+  }, {
     "uid" : "1007a62aaf4cb951fc0381488e90155c",
     "name" : "Home_hqmap_test",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 7
+    }
+  }, {
+    "uid" : "cf37f73718c028e53a697aa70fbacb95",
+    "name" : "Price_breed_test",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
@@ -67,48 +100,15 @@
       "total" : 7
     }
   }, {
-    "uid" : "ca47b718fd353827abba965dde84a4c7",
-    "name" : "duanxin_myNewSms_test",
+    "uid" : "2b6afb4743832fdf759157ef2b001645",
+    "name" : "zixun_articledetail_test",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 7,
       "unknown" : 0,
-      "total" : 2
-    }
-  }, {
-    "uid" : "3abea53726122c29a2ef6ea776dc828a",
-    "name" : "duanxin_mysearch_test",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 2,
-      "unknown" : 0,
-      "total" : 2
-    }
-  }, {
-    "uid" : "cf9ddf466ff0ba80db2daf49d44f3241",
-    "name" : "Home_bingtu_test",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    }
-  }, {
-    "uid" : "3c65fe0d4d145ff6317fdc4f8be3227c",
-    "name" : "Home_dibuBottom_test",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
+      "total" : 7
     }
   } ]
 }

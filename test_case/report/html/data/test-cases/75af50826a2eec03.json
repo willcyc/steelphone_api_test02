@@ -1,0 +1,60 @@
+{
+  "uid" : "75af50826a2eec03",
+  "name" : "test_hqmap_type_null",
+  "fullName" : "Home_hqmap_test.test_hqmap_type_null",
+  "historyId" : "cb5dee54923f39b3b78c236088abbfed",
+  "time" : {
+    "start" : 1536047535113,
+    "stop" : 1536047535211,
+    "duration" : 98
+  },
+  "description" : "参数type为空：启动页广告",
+  "descriptionHtml" : "<p>参数type为空：启动页广告</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "WIN-2UTDL5VGFJJ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "7956-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "Home_hqmap_test"
+  }, {
+    "name" : "testClass",
+    "value" : "Home_hqmap_test"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_hqmap_type_null"
+  }, {
+    "name" : "package",
+    "value" : "Home_hqmap_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "75af50826a2eec03.json",
+  "parameterValues" : [ ]
+}

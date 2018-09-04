@@ -1,0 +1,60 @@
+{
+  "uid" : "56e6061c032ac613",
+  "name" : "test_channel_title",
+  "fullName" : "zixun_channel_test.test_channel_title",
+  "historyId" : "d9b952b12da7963c266f7b94ec39d27b",
+  "time" : {
+    "start" : 1536047552277,
+    "stop" : 1536047552391,
+    "duration" : 114
+  },
+  "description" : "资讯页面标题",
+  "descriptionHtml" : "<p>资讯页面标题</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "WIN-2UTDL5VGFJJ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "7956-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "zixun_channel_test"
+  }, {
+    "name" : "testClass",
+    "value" : "zixun_channel_test"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_channel_title"
+  }, {
+    "name" : "package",
+    "value" : "zixun_channel_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "56e6061c032ac613.json",
+  "parameterValues" : [ ]
+}

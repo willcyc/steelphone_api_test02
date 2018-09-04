@@ -1,0 +1,60 @@
+{
+  "uid" : "b727d4c94d1406a4",
+  "name" : "test_keyword_in_list",
+  "fullName" : "zixun_subjectlist_test.test_keyword_in_list",
+  "historyId" : "1b9316802df2c08ec7bb1bd485b19857",
+  "time" : {
+    "start" : 1536047553851,
+    "stop" : 1536047553964,
+    "duration" : 113
+  },
+  "description" : "资讯页面专题列表-输入存在的搜索关键字",
+  "descriptionHtml" : "<p>资讯页面专题列表-输入存在的搜索关键字</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "WIN-2UTDL5VGFJJ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "7956-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "zixun_subjectlist_test"
+  }, {
+    "name" : "testClass",
+    "value" : "zixun_subjectlist_test"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_keyword_in_list"
+  }, {
+    "name" : "package",
+    "value" : "zixun_subjectlist_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b727d4c94d1406a4.json",
+  "parameterValues" : [ ]
+}

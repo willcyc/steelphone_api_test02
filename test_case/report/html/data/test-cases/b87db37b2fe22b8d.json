@@ -1,0 +1,60 @@
+{
+  "uid" : "b87db37b2fe22b8d",
+  "name" : "test_get_success",
+  "fullName" : "qihuo_sqs_test.test_get_success",
+  "historyId" : "dcb761ac07e378aa5e16d52699173c32",
+  "time" : {
+    "start" : 1536047547862,
+    "stop" : 1536047548030,
+    "duration" : 168
+  },
+  "description" : "参数id、type均正确",
+  "descriptionHtml" : "<p>参数id、type均正确</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "WIN-2UTDL5VGFJJ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "7956-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "qihuo_sqs_test"
+  }, {
+    "name" : "testClass",
+    "value" : "qihuo_sqs_test"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_get_success"
+  }, {
+    "name" : "package",
+    "value" : "qihuo_sqs_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b87db37b2fe22b8d.json",
+  "parameterValues" : [ ]
+}

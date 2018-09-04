@@ -1,0 +1,60 @@
+{
+  "uid" : "4dad3413839fd9d",
+  "name" : "test_creat_success",
+  "fullName" : "Paylist_test.test_creat_success",
+  "historyId" : "bfe759071cc4df25436c696f7337020d",
+  "time" : {
+    "start" : 1536047536621,
+    "stop" : 1536047536772,
+    "duration" : 151
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "WIN-2UTDL5VGFJJ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "7956-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "Paylist_test"
+  }, {
+    "name" : "testClass",
+    "value" : "Paylist_test"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_creat_success"
+  }, {
+    "name" : "package",
+    "value" : "Paylist_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4dad3413839fd9d.json",
+  "parameterValues" : [ ]
+}

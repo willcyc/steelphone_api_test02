@@ -1,0 +1,60 @@
+{
+  "uid" : "bad632e381638646",
+  "name" : "test_create_success",
+  "fullName" : "Price_subcreate_test.test_create_success",
+  "historyId" : "3bfcaeea8ed8d81075c971e6bc69ce3",
+  "time" : {
+    "start" : 1536047540097,
+    "stop" : 1536047540239,
+    "duration" : 142
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "WIN-2UTDL5VGFJJ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "7956-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "Price_subcreate_test"
+  }, {
+    "name" : "testClass",
+    "value" : "Price_subcreate_test"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_create_success"
+  }, {
+    "name" : "package",
+    "value" : "Price_subcreate_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bad632e381638646.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,60 @@
+{
+  "uid" : "96754e10a8896999",
+  "name" : "test_get_art_error",
+  "fullName" : "Home_advart_test.test_get_art_error",
+  "historyId" : "46c1e6b66120a9d5649ff22ae5cc967f",
+  "time" : {
+    "start" : 1536047533306,
+    "stop" : 1536047533423,
+    "duration" : 117
+  },
+  "description" : "首页文章页码参数传入错误，大于100",
+  "descriptionHtml" : "<p>首页文章页码参数传入错误，大于100</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "WIN-2UTDL5VGFJJ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "7956-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "Home_advart_test"
+  }, {
+    "name" : "testClass",
+    "value" : "Home_advart_test"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_get_art_error"
+  }, {
+    "name" : "package",
+    "value" : "Home_advart_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "96754e10a8896999.json",
+  "parameterValues" : [ ]
+}

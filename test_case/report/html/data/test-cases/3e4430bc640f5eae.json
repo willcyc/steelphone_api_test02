@@ -1,0 +1,60 @@
+{
+  "uid" : "3e4430bc640f5eae",
+  "name" : "test_case_6_test_cityName_null",
+  "fullName" : "Price_market_test.test_case_6_test_cityName_null",
+  "historyId" : "51beb2bfc0ce6828e2b6c961c265c94d",
+  "time" : {
+    "start" : 1536047539375,
+    "stop" : 1536047539497,
+    "duration" : 122
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "WIN-2UTDL5VGFJJ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "7956-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "Price_market_test"
+  }, {
+    "name" : "testClass",
+    "value" : "Price_market_test"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_case_6_test_cityName_null"
+  }, {
+    "name" : "package",
+    "value" : "Price_market_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3e4430bc640f5eae.json",
+  "parameterValues" : [ ]
+}

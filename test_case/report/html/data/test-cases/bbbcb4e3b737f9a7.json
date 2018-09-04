@@ -1,0 +1,60 @@
+{
+  "uid" : "bbbcb4e3b737f9a7",
+  "name" : "test_change_success",
+  "fullName" : "wode_changepwd_test.test_change_success",
+  "historyId" : "acda6260ce56601c3dac87402ae72164",
+  "time" : {
+    "start" : 1536047548668,
+    "stop" : 1536047548782,
+    "duration" : 114
+  },
+  "description" : "修改成功",
+  "descriptionHtml" : "<p>修改成功</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "WIN-2UTDL5VGFJJ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "7956-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "wode_changepwd_test"
+  }, {
+    "name" : "testClass",
+    "value" : "wode_changepwd_test"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_change_success"
+  }, {
+    "name" : "package",
+    "value" : "wode_changepwd_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bbbcb4e3b737f9a7.json",
+  "parameterValues" : [ ]
+}
