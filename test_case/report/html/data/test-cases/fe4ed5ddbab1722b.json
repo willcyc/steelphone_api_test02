@@ -1,0 +1,60 @@
+{
+  "uid" : "fe4ed5ddbab1722b",
+  "name" : "test_subject_list",
+  "fullName" : "zixun_subjectlist_test.test_subject_list",
+  "historyId" : "184a9d295616d54e2605ed454eb2fae0",
+  "time" : {
+    "start" : 1537240623306,
+    "stop" : 1537240623440,
+    "duration" : 134
+  },
+  "description" : "资讯页面专题列表",
+  "descriptionHtml" : "<p>资讯页面专题列表</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "WIN-2UTDL5VGFJJ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "5016-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "zixun_subjectlist_test"
+  }, {
+    "name" : "testClass",
+    "value" : "zixun_subjectlist_test"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_subject_list"
+  }, {
+    "name" : "package",
+    "value" : "zixun_subjectlist_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fe4ed5ddbab1722b.json",
+  "parameterValues" : [ ]
+}

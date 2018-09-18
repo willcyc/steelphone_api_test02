@@ -1,0 +1,60 @@
+{
+  "uid" : "500676e7ae5ea06b",
+  "name" : "test_case_1_test_userId_null",
+  "fullName" : "Price_city_test.test_case_1_test_userId_null",
+  "historyId" : "9eabca69ebf05bcb55f1332cbd35447d",
+  "time" : {
+    "start" : 1537240602712,
+    "stop" : 1537240602825,
+    "duration" : 113
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "WIN-2UTDL5VGFJJ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "5016-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "Price_city_test"
+  }, {
+    "name" : "testClass",
+    "value" : "Price_city_test"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_case_1_test_userId_null"
+  }, {
+    "name" : "package",
+    "value" : "Price_city_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "500676e7ae5ea06b.json",
+  "parameterValues" : [ ]
+}

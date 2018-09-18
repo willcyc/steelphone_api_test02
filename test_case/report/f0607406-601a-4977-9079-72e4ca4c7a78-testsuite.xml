@@ -1,0 +1,19 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1537240619323" stop="1537240621483">
+  <name>zixun_articlelist_test</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1537240619323" status="passed" stop="1537240621483">
+      <description>资讯页面</description>
+      <name>test_articlelist_success</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="5016-MainThread"/>
+        <label name="host" value="WIN-2UTDL5VGFJJ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

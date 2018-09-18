@@ -1,0 +1,60 @@
+{
+  "uid" : "5764caf85c1e2d3f",
+  "name" : "test_get_success",
+  "fullName" : "pinz_zhishu_test.test_get_success",
+  "historyId" : "fbe862a800037bc6b96ef252f867740a",
+  "time" : {
+    "start" : 1537240615118,
+    "stop" : 1537240615331,
+    "duration" : 213
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "WIN-2UTDL5VGFJJ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "5016-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "pinz_zhishu_test"
+  }, {
+    "name" : "testClass",
+    "value" : "pinz_zhishu_test"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_get_success"
+  }, {
+    "name" : "package",
+    "value" : "pinz_zhishu_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5764caf85c1e2d3f.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,60 @@
+{
+  "uid" : "5dc9756a480f27a7",
+  "name" : "test_userId_error",
+  "fullName" : "Price_breed_test.test_userId_error",
+  "historyId" : "b9a6f54e2061a5300c507c5486f159d9",
+  "time" : {
+    "start" : 1537240602381,
+    "stop" : 1537240602490,
+    "duration" : 109
+  },
+  "description" : "参数userId不存在",
+  "descriptionHtml" : "<p>参数userId不存在</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "WIN-2UTDL5VGFJJ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "5016-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "Price_breed_test"
+  }, {
+    "name" : "testClass",
+    "value" : "Price_breed_test"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_userId_error"
+  }, {
+    "name" : "package",
+    "value" : "Price_breed_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5dc9756a480f27a7.json",
+  "parameterValues" : [ ]
+}

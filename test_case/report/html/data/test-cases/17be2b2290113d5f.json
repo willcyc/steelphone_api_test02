@@ -1,0 +1,60 @@
+{
+  "uid" : "17be2b2290113d5f",
+  "name" : "test_HotArticle_first_success",
+  "fullName" : "Home_shuaxin_test.test_HotArticle_first_success",
+  "historyId" : "bb4534df141aa8a83416defbf07543bc",
+  "time" : {
+    "start" : 1537240600631,
+    "stop" : 1537240601649,
+    "duration" : 1018
+  },
+  "description" : "首页文章第1页：榜单-好文推荐、文章排序和条数",
+  "descriptionHtml" : "<p>首页文章第1页：榜单-好文推荐、文章排序和条数</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "WIN-2UTDL5VGFJJ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "5016-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "Home_shuaxin_test"
+  }, {
+    "name" : "testClass",
+    "value" : "Home_shuaxin_test"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_HotArticle_first_success"
+  }, {
+    "name" : "package",
+    "value" : "Home_shuaxin_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "17be2b2290113d5f.json",
+  "parameterValues" : [ ]
+}

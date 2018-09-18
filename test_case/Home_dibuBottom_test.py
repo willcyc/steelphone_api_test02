@@ -29,8 +29,8 @@ def test_versionBottom_success():
 	'''底部菜单-产经日历'''
 	r = datetime.datetime.now().day  #获取当前时间日
 	#print(r)
-	icoNor = 'http://img02.mysteelcdn.com/wz/uploaded/steelphone4/indexico/calendar/' + str(r) + '_nor.png'
-	icoChoose = 'http://img02.mysteelcdn.com/wz/uploaded/steelphone4/indexico/calendar/' + str(r) + '_choose.png' 
+	icoNor = 'http://img03.mysteelcdn.com/wz/uploaded/steelphone4/indexico/calendar/' + str(r) + '_nor.png'
+	icoChoose = 'http://img03.mysteelcdn.com/wz/uploaded/steelphone4/indexico/calendar/' + str(r) + '_choose.png' 
 	assert tb[2]['name'] == '产经日历'
 	assert tb[2]['url'] == 'https://m.steelphone.com/finance/calendar.html?UAlocal=1'
 	assert tb[2]['icoNor'] == icoNor    #未选中时状态

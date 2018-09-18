@@ -1,0 +1,60 @@
+{
+  "uid" : "d866162a79cdbbf9",
+  "name" : "test_get_success",
+  "fullName" : "weixin_login_test.test_get_success",
+  "historyId" : "73754ed0123fb2e8d9682f51998bfadb",
+  "time" : {
+    "start" : 1537240616074,
+    "stop" : 1537240616202,
+    "duration" : 128
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "WIN-2UTDL5VGFJJ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "5016-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "weixin_login_test"
+  }, {
+    "name" : "testClass",
+    "value" : "weixin_login_test"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_get_success"
+  }, {
+    "name" : "package",
+    "value" : "weixin_login_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d866162a79cdbbf9.json",
+  "parameterValues" : [ ]
+}

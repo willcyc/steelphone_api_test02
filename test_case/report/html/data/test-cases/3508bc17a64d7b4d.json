@@ -1,0 +1,60 @@
+{
+  "uid" : "3508bc17a64d7b4d",
+  "name" : "test_login[url11]",
+  "fullName" : "denglu_test.test_login[url11]",
+  "historyId" : "51c7036d796d0c495dbafe27f82fc561",
+  "time" : {
+    "start" : 1537240607944,
+    "stop" : 1537240608022,
+    "duration" : 78
+  },
+  "description" : "登录用例",
+  "descriptionHtml" : "<p>登录用例</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "WIN-2UTDL5VGFJJ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "5016-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "denglu_test"
+  }, {
+    "name" : "testClass",
+    "value" : "denglu_test"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_login[url11]"
+  }, {
+    "name" : "package",
+    "value" : "denglu_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3508bc17a64d7b4d.json",
+  "parameterValues" : [ ]
+}

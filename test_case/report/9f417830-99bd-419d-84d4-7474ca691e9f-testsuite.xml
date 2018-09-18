@@ -1,0 +1,45 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1537240623078" stop="1537240623440">
+  <name>zixun_subjectlist_test</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1537240623078" status="passed" stop="1537240623183">
+      <description>资讯页面专题列表-输入存在的搜索关键字</description>
+      <name>test_keyword_in_list</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="5016-MainThread"/>
+        <label name="host" value="WIN-2UTDL5VGFJJ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1537240623185" status="passed" stop="1537240623305">
+      <description>资讯页面专题列表-输入不存在的搜索关键字</description>
+      <name>test_keyword_notin_list</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="5016-MainThread"/>
+        <label name="host" value="WIN-2UTDL5VGFJJ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1537240623306" status="passed" stop="1537240623440">
+      <description>资讯页面专题列表</description>
+      <name>test_subject_list</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="5016-MainThread"/>
+        <label name="host" value="WIN-2UTDL5VGFJJ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

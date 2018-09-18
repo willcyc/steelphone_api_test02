@@ -1,0 +1,60 @@
+{
+  "uid" : "3e1cddfc3cf7b411",
+  "name" : "test_case_3_test_channelId_null",
+  "fullName" : "zixun_contentarticle_test.test_case_3_test_channelId_null",
+  "historyId" : "599c4ebd8af65f22c7800ae96156c8e5",
+  "time" : {
+    "start" : 1537240622250,
+    "stop" : 1537240622366,
+    "duration" : 116
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "WIN-2UTDL5VGFJJ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "5016-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "zixun_contentarticle_test"
+  }, {
+    "name" : "testClass",
+    "value" : "zixun_contentarticle_test"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_case_3_test_channelId_null"
+  }, {
+    "name" : "package",
+    "value" : "zixun_contentarticle_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3e1cddfc3cf7b411.json",
+  "parameterValues" : [ ]
+}

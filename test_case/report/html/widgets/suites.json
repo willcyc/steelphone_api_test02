@@ -1,5 +1,5 @@
 {
-  "total" : 40,
+  "total" : 56,
   "items" : [ {
     "uid" : "90a7c3beb7146cd1a9cc3c9084d7f776",
     "name" : "denglu_test",
@@ -67,6 +67,17 @@
       "total" : 9
     }
   }, {
+    "uid" : "af98ec5a8bfc585c01ef3f1954b09120",
+    "name" : "duanxin_mydingz_test",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    }
+  }, {
     "uid" : "1007a62aaf4cb951fc0381488e90155c",
     "name" : "Home_hqmap_test",
     "statistic" : {
@@ -80,17 +91,6 @@
   }, {
     "uid" : "cf37f73718c028e53a697aa70fbacb95",
     "name" : "Price_breed_test",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 7,
-      "unknown" : 0,
-      "total" : 7
-    }
-  }, {
-    "uid" : "af98ec5a8bfc585c01ef3f1954b09120",
-    "name" : "duanxin_mydingz_test",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,

@@ -1,0 +1,60 @@
+{
+  "uid" : "7bd7e9483f439185",
+  "name" : "test_get_success",
+  "fullName" : "meihg_tips_test.test_get_success",
+  "historyId" : "cda6af6ef7444f54456e85f4ac9017b2",
+  "time" : {
+    "start" : 1537240614890,
+    "stop" : 1537240614950,
+    "duration" : 60
+  },
+  "description" : "煤化工提示语",
+  "descriptionHtml" : "<p>煤化工提示语</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "WIN-2UTDL5VGFJJ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "5016-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "meihg_tips_test"
+  }, {
+    "name" : "testClass",
+    "value" : "meihg_tips_test"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_get_success"
+  }, {
+    "name" : "package",
+    "value" : "meihg_tips_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7bd7e9483f439185.json",
+  "parameterValues" : [ ]
+}

@@ -25,30 +25,36 @@ class TestYuanLiao():
 		assert s[0]['hot'] == '1'
 		assert s[0]['ico'],'http://img02.mysteelcdn.com/wz/uploaded/steelphone4/indexSonBreedIco/0306.png'
 
-		'''煤焦'''
-		assert s[1]['name'] == '煤焦'
+		'''钢坯'''
+		assert s[1]['name'] == '钢坯'
 		assert s[1]['hot'] == '0'
-		assert s[1]['ico'] == 'http://img02.mysteelcdn.com/wz/uploaded/steelphone4/indexSonBreedIco/05.png'
+		assert s[1]['ico'] == 'http://img02.mysteelcdn.com/wz/uploaded/steelphone4/indexSonBreedIco/0307_v3.png'
+
+
+		'''煤焦'''
+		assert s[2]['name'] == '煤焦'
+		assert s[2]['hot'] == '0'
+		assert s[2]['ico'] == 'http://img02.mysteelcdn.com/wz/uploaded/steelphone4/indexSonBreedIco/05.png'
 
 		'''耐材'''
-		assert s[2]['name'] == '耐材'
-		assert s[2]['hot'] == '0'
-		assert s[2]['ico'] == 'http://img02.mysteelcdn.com/wz/uploaded/steelphone4/indexSonBreedIco/0309.png'
+		assert s[3]['name'] == '耐材'
+		assert s[3]['hot'] == '0'
+		assert s[3]['ico'] == 'http://img02.mysteelcdn.com/wz/uploaded/steelphone4/indexSonBreedIco/0309.png'
 
 		'''生铁'''
-		assert s[3]['name'] == '生铁'
-		assert s[3]['hot'] == '0'
-		assert s[3]['ico'] == 'http://img02.mysteelcdn.com/wz/uploaded/steelphone4/indexSonBreedIco/0305.png'
+		assert s[4]['name'] == '生铁'
+		assert s[4]['hot'] == '0'
+		assert s[4]['ico'] == 'http://img02.mysteelcdn.com/wz/uploaded/steelphone4/indexSonBreedIco/0305.png'
 
 		'''铁合金'''
-		assert s[4]['name'] == '铁合金'
-		assert s[4]['hot'] == '0'
-		assert s[4]['ico'] == 'http://img02.mysteelcdn.com/wz/uploaded/steelphone4/indexSonBreedIco/0303.png'
+		assert s[5]['name'] == '铁合金'
+		assert s[5]['hot'] == '0'
+		assert s[5]['ico'] == 'http://img02.mysteelcdn.com/wz/uploaded/steelphone4/indexSonBreedIco/0303.png'
 
 		'''铁矿石'''
-		assert s[5]['name'] == '铁矿石'
-		assert s[5]['hot'] == '1'
-		assert s[5]['ico'] =='http://img02.mysteelcdn.com/wz/uploaded/steelphone4/indexSonBreedIco/0311.png'
+		assert s[6]['name'] == '铁矿石'
+		assert s[6]['hot'] == '1'
+		assert s[6]['ico'] =='http://img02.mysteelcdn.com/wz/uploaded/steelphone4/indexSonBreedIco/0311.png'
 
 if __name__ == '__main__':
 	pytest.main(["-s", "bingtu_yuanliao_test.py"])

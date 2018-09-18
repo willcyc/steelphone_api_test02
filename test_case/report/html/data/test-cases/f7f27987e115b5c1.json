@@ -1,0 +1,60 @@
+{
+  "uid" : "f7f27987e115b5c1",
+  "name" : "test_page_null",
+  "fullName" : "Home_version_test.test_page_null",
+  "historyId" : "617a6c16eca1e33b70c59e028dac209",
+  "time" : {
+    "start" : 1537240601650,
+    "stop" : 1537240601711,
+    "duration" : 61
+  },
+  "description" : "页码为空",
+  "descriptionHtml" : "<p>页码为空</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "WIN-2UTDL5VGFJJ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "5016-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "Home_version_test"
+  }, {
+    "name" : "testClass",
+    "value" : "Home_version_test"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_page_null"
+  }, {
+    "name" : "package",
+    "value" : "Home_version_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f7f27987e115b5c1.json",
+  "parameterValues" : [ ]
+}

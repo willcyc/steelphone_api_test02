@@ -2,6 +2,7 @@
 import pytest
 import requests
 from parameterized import parameterized
+import random
 
 '''短信-我的定制页面'''
 Url = "https://mysteelapi.steelphone.com/v4/sms/getMySmsPack.htm?"
@@ -45,13 +46,33 @@ if denglu['result'] == 'true':
 			#print(dx['name'])
 			dingzhi.append(dx['name'])
 		#print (dingzhi)
-		#========================将输出结果放入本地TXT文件中========================
+		#========================将定制的行情名称放入本地TXT文件中========================
 		f = open (r'E:\git\steelphone_api_test02\test_case\html.txt','w')
 		print (dingzhi,file = f)
 		f.close()
 
+		idlist = []
+		for dx in result['sms']:
+			#print(dx['name'])
+			idlist.append(dx['id'])
+		#print (idlist)
+		#print(len(idlist))
+		b = random.sample(idlist, 5)
+		global a
+		a = ",".join(b)
+		#print(a)
+
 elif denglu['result'] == 'false':
 		print("请退出账户：13839205941")
+
+#======================================================短信排序==============================================================
+url = "https://mysteelapi.steelphone.com/v4/sms/setSmsPackPriority.htm?&isPad="
+def test_get_success01():
+	body = {'userId':'566453','machineCode':'90526B160362A7A4FECA22411080F8CF','packIds':a}
+	result01 = requests.post(url,data = body)
+	#print(result01)
+	code = result01.status_code
+	assert code == 200
 
 if __name__ == '__main__':
 	pytest.main(["-s", "duanxin_mydingz_test.py"])

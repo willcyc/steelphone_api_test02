@@ -16,7 +16,7 @@ def test_get_success():
 	body = {'userId':'566453','machineCode':'90526B160362A7A4FECA22411080F8CF','page':1,'keywords':''}
 	result = requests.post(Url,data = body).json()
 	#print(result)
-	assert result['pagenum'] == '75'
+	assert result['pagenum'] == '76'
 
 if __name__ == '__main__':
 	pytest.main(["-s", "duanxin_mysearch_test.py"])

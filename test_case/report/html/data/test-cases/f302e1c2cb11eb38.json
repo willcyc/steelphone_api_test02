@@ -1,0 +1,60 @@
+{
+  "uid" : "f302e1c2cb11eb38",
+  "name" : "test_get_ios",
+  "fullName" : "bybusid_finance_test.test_get_ios",
+  "historyId" : "954a122fcfa8253327beed4c47bf37b0",
+  "time" : {
+    "start" : 1537240606262,
+    "stop" : 1537240606395,
+    "duration" : 133
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "WIN-2UTDL5VGFJJ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "5016-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "bybusid_finance_test"
+  }, {
+    "name" : "testClass",
+    "value" : "bybusid_finance_test"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_get_ios"
+  }, {
+    "name" : "package",
+    "value" : "bybusid_finance_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f302e1c2cb11eb38.json",
+  "parameterValues" : [ ]
+}

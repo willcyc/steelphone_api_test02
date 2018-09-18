@@ -1,0 +1,60 @@
+{
+  "uid" : "c842d67abc983de9",
+  "name" : "test_creat_success_0_18790851702",
+  "fullName" : "wode_creatadd_test.test_creat_success_0_18790851702",
+  "historyId" : "7c32081a0313a565ef12d3fad9cff6eb",
+  "time" : {
+    "start" : 1537240616959,
+    "stop" : 1537240617096,
+    "duration" : 137
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "WIN-2UTDL5VGFJJ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "5016-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "wode_creatadd_test"
+  }, {
+    "name" : "testClass",
+    "value" : "wode_creatadd_test"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_creat_success_0_18790851702"
+  }, {
+    "name" : "package",
+    "value" : "wode_creatadd_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c842d67abc983de9.json",
+  "parameterValues" : [ ]
+}

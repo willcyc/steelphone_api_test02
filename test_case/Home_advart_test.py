@@ -19,7 +19,7 @@ def test_get_adv_success():
 	'''固定广告位置'''
 	for adv in advs:
 		#print(adv)
-		if adv['id'] == '3448':
+		if adv['id'] == '5535':
 			adv0 = adv
 			#print(adv0)
 		elif adv['id'] == '3460':
@@ -30,7 +30,7 @@ def test_get_adv_success():
 			#print(adv2)
 	
 	#顶部广告1
-	assert adv0['id'] == '3448'    #广告id
+	assert adv0['id'] == '5535'    #广告id
 	assert adv0['title'] == '天津友发钢管集团股份有限公司'   #广告标题
 	assert adv0['description'] == '5'   #广告位置
 	assert adv0['src'] == 'http://www.yfgg.com/?hmsr=mystealSY&hmmd=&hmpl=&hmkw=&hmci='   #广告跳转地址
@@ -58,8 +58,8 @@ def test_get_art_null():
 	body = {'userId':'566453','machineCode':'2ACCCCDC5FBDBE59ADD70F1C100FE4BB','id':',,2','page':'','type':'5,17,6','protocolVersion':'4.6.5'}
 	r = requests.post(Url,data = body)
 	code = r.status_code
-	#print(self.result)
-	assert code == 400
+	#print(result)
+	assert code == 404
 
 def test_get_art_error():
 	'''首页文章页码参数传入错误，大于100'''

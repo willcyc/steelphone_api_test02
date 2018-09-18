@@ -1,0 +1,60 @@
+{
+  "uid" : "65a302ddd6795647",
+  "name" : "TestYuanLiao.test_Volume_success",
+  "fullName" : "bingtu_yuanliao_test.TestYuanLiao.test_Volume_success",
+  "historyId" : "40ff8691fab55cc24790724f50430a67",
+  "time" : {
+    "start" : 1537240606146,
+    "stop" : 1537240606260,
+    "duration" : 114
+  },
+  "description" : "获取饼图",
+  "descriptionHtml" : "<p>获取饼图</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "WIN-2UTDL5VGFJJ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "5016-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "bingtu_yuanliao_test"
+  }, {
+    "name" : "testClass",
+    "value" : "bingtu_yuanliao_test"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestYuanLiao.test_Volume_success"
+  }, {
+    "name" : "package",
+    "value" : "bingtu_yuanliao_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "65a302ddd6795647.json",
+  "parameterValues" : [ ]
+}

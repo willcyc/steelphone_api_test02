@@ -99,10 +99,10 @@ def test_login(url):
 		    assert result['result'] == 'false'
 		    assert result['errorstr'] == '密码不匹配！'
     elif result['result'] == 'true':
-	        assert result['nickName'] == '程一川测试'
+	        assert result['nickName'] == '程一川test'
 	        assert result['userId'] == '566453'
-	        assert result['adminName'] == '岳宗平'
-	        assert result['adminPhone'] == '15898950165'
+	        assert result['adminName'] == '程一川'
+	        assert result['adminPhone'] == '13916824713'
     else:
         assert result['errorstr'] == '该账户已在其他设备上登录，请联系管理员！'   	
 

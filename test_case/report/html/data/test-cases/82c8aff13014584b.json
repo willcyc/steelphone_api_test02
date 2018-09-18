@@ -1,0 +1,60 @@
+{
+  "uid" : "82c8aff13014584b",
+  "name" : "test_oldpwd_error",
+  "fullName" : "wode_changepwd_test.test_oldpwd_error",
+  "historyId" : "b4cafc1dc2ef1045f71e61e85e4b52ba",
+  "time" : {
+    "start" : 1537240616617,
+    "stop" : 1537240616727,
+    "duration" : 110
+  },
+  "description" : "旧密码错误",
+  "descriptionHtml" : "<p>旧密码错误</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "WIN-2UTDL5VGFJJ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "5016-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "wode_changepwd_test"
+  }, {
+    "name" : "testClass",
+    "value" : "wode_changepwd_test"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_oldpwd_error"
+  }, {
+    "name" : "package",
+    "value" : "wode_changepwd_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "82c8aff13014584b.json",
+  "parameterValues" : [ ]
+}

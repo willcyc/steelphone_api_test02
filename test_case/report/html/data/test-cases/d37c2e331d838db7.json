@@ -1,0 +1,60 @@
+{
+  "uid" : "d37c2e331d838db7",
+  "name" : "test_get_success",
+  "fullName" : "zhuce_secondCheck_test.test_get_success",
+  "historyId" : "b6d01b9acd26c359dcb475757c47e6f2",
+  "time" : {
+    "start" : 1537240618129,
+    "stop" : 1537240618228,
+    "duration" : 99
+  },
+  "description" : "参数均正确",
+  "descriptionHtml" : "<p>参数均正确</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "WIN-2UTDL5VGFJJ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "5016-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "zhuce_secondCheck_test"
+  }, {
+    "name" : "testClass",
+    "value" : "zhuce_secondCheck_test"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_get_success"
+  }, {
+    "name" : "package",
+    "value" : "zhuce_secondCheck_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d37c2e331d838db7.json",
+  "parameterValues" : [ ]
+}

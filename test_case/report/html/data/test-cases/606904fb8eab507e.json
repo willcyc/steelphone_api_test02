@@ -1,0 +1,60 @@
+{
+  "uid" : "606904fb8eab507e",
+  "name" : "test_breedName_null",
+  "fullName" : "Price_shaixuan_test.test_breedName_null",
+  "historyId" : "dd82f44b31ece4caf65d40a27734531e",
+  "time" : {
+    "start" : 1537240605128,
+    "stop" : 1537240605351,
+    "duration" : 223
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "WIN-2UTDL5VGFJJ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "5016-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "Price_shaixuan_test"
+  }, {
+    "name" : "testClass",
+    "value" : "Price_shaixuan_test"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_breedName_null"
+  }, {
+    "name" : "package",
+    "value" : "Price_shaixuan_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "606904fb8eab507e.json",
+  "parameterValues" : [ ]
+}

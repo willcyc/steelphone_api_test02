@@ -1,0 +1,60 @@
+{
+  "uid" : "e7353e4e211f9bd4",
+  "name" : "test_get_android",
+  "fullName" : "all_breed_test.test_get_android",
+  "historyId" : "1f5e6db51735bca2499f8d59ade8fac4",
+  "time" : {
+    "start" : 1537240605922,
+    "stop" : 1537240606034,
+    "duration" : 112
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "WIN-2UTDL5VGFJJ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "5016-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "all_breed_test"
+  }, {
+    "name" : "testClass",
+    "value" : "all_breed_test"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_get_android"
+  }, {
+    "name" : "package",
+    "value" : "all_breed_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e7353e4e211f9bd4.json",
+  "parameterValues" : [ ]
+}
