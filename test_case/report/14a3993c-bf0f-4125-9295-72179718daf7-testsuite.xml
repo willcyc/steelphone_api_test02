@@ -1,0 +1,148 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1553331468013" stop="1553331468014">
+  <description>This is the tests collection phase. Failures are modules that failed to collect.</description>
+  <name>test_collection_phase</name>
+  <title>Collection phase</title>
+  <labels/>
+  <test-cases>
+    <test-case start="1553331468013" status="broken" stop="1553331468013">
+      <name>Home_shuaxin_test</name>
+      <failure>
+        <message>failed</message>
+        <stack-trace>c:\python27\lib\site-packages\_pytest\runner.py:206: in __init__
+    self.result = func()
+c:\python27\lib\site-packages\_pytest\runner.py:266: in &lt;lambda&gt;
+    call = CallInfo(lambda: list(collector.collect()), "collect")
+c:\python27\lib\site-packages\_pytest\python.py:443: in collect
+    self.session._fixturemanager.parsefactories(self)
+c:\python27\lib\site-packages\_pytest\fixtures.py:1294: in parsefactories
+    holderobj = node_or_obj.obj
+c:\python27\lib\site-packages\_pytest\python.py:248: in fget
+    self._obj = obj = self._getobj()
+c:\python27\lib\site-packages\_pytest\python.py:440: in _getobj
+    return self._importtestmodule()
+c:\python27\lib\site-packages\_pytest\python.py:453: in _importtestmodule
+    _pytest._code.ExceptionInfo().getrepr(style="short")
+c:\python27\lib\site-packages\_pytest\_code\code.py:505: in getrepr
+    return fmt.repr_excinfo(self)
+c:\python27\lib\site-packages\_pytest\_code\code.py:741: in repr_excinfo
+    reprtraceback = self.repr_traceback(excinfo)
+c:\python27\lib\site-packages\_pytest\_code\code.py:698: in repr_traceback
+    reprentry = self.repr_traceback_entry(entry, einfo)
+c:\python27\lib\site-packages\_pytest\_code\code.py:658: in repr_traceback_entry
+    s = self.get_source(source, line_index, excinfo, short=short)
+c:\python27\lib\site-packages\_pytest\_code\code.py:599: in get_source
+    lines.extend(self.get_exconly(excinfo, indent=indent, markall=True))
+c:\python27\lib\site-packages\_pytest\_code\code.py:606: in get_exconly
+    exlines = excinfo.exconly(tryshort=True).split("\n")
+c:\python27\lib\site-packages\_pytest\_code\code.py:430: in exconly
+    lines = format_exception_only(self.type, self.value)
+c:\python27\lib\site-packages\_pytest\_code\_py2traceback.py:54: in format_exception_only
+    lines.append('  File "{}", line {}\n'.format(filename, lineno))
+E   UnicodeDecodeError: 'ascii' codec can't decode byte 0xce in position 7: ordinal not in range(128)</stack-trace>
+      </failure>
+      <attachments/>
+      <labels/>
+      <steps/>
+    </test-case>
+    <test-case start="1553331468013" status="broken" stop="1553331468013">
+      <name>Price_shaixuan_test</name>
+      <failure>
+        <message>failed</message>
+        <stack-trace>import file mismatch:
+imported module 'Price_shaixuan_test' has this __file__ attribute:
+  E:\git\steelphone_api_test02\test_case\Price_shaixuan_test.py
+which is not the same as the test file we want to collect:
+  D:\win7�ļ�\git\steelphone_api_test02\test_case\Price_shaixuan_test.py
+HINT: remove __pycache__ / .pyc files and/or use a unique basename for your test file modules</stack-trace>
+      </failure>
+      <attachments/>
+      <labels/>
+      <steps/>
+    </test-case>
+    <test-case start="1553331468013" status="broken" stop="1553331468013">
+      <name>duanxin_mydingz_test</name>
+      <failure>
+        <message>failed</message>
+        <stack-trace>c:\python27\lib\site-packages\_pytest\runner.py:206: in __init__
+    self.result = func()
+c:\python27\lib\site-packages\_pytest\runner.py:266: in &lt;lambda&gt;
+    call = CallInfo(lambda: list(collector.collect()), "collect")
+c:\python27\lib\site-packages\_pytest\python.py:443: in collect
+    self.session._fixturemanager.parsefactories(self)
+c:\python27\lib\site-packages\_pytest\fixtures.py:1294: in parsefactories
+    holderobj = node_or_obj.obj
+c:\python27\lib\site-packages\_pytest\python.py:248: in fget
+    self._obj = obj = self._getobj()
+c:\python27\lib\site-packages\_pytest\python.py:440: in _getobj
+    return self._importtestmodule()
+c:\python27\lib\site-packages\_pytest\python.py:453: in _importtestmodule
+    _pytest._code.ExceptionInfo().getrepr(style="short")
+c:\python27\lib\site-packages\_pytest\_code\code.py:505: in getrepr
+    return fmt.repr_excinfo(self)
+c:\python27\lib\site-packages\_pytest\_code\code.py:741: in repr_excinfo
+    reprtraceback = self.repr_traceback(excinfo)
+c:\python27\lib\site-packages\_pytest\_code\code.py:698: in repr_traceback
+    reprentry = self.repr_traceback_entry(entry, einfo)
+c:\python27\lib\site-packages\_pytest\_code\code.py:658: in repr_traceback_entry
+    s = self.get_source(source, line_index, excinfo, short=short)
+c:\python27\lib\site-packages\_pytest\_code\code.py:599: in get_source
+    lines.extend(self.get_exconly(excinfo, indent=indent, markall=True))
+c:\python27\lib\site-packages\_pytest\_code\code.py:606: in get_exconly
+    exlines = excinfo.exconly(tryshort=True).split("\n")
+c:\python27\lib\site-packages\_pytest\_code\code.py:430: in exconly
+    lines = format_exception_only(self.type, self.value)
+c:\python27\lib\site-packages\_pytest\_code\_py2traceback.py:54: in format_exception_only
+    lines.append('  File "{}", line {}\n'.format(filename, lineno))
+E   UnicodeDecodeError: 'ascii' codec can't decode byte 0xce in position 7: ordinal not in range(128)</stack-trace>
+      </failure>
+      <attachments/>
+      <labels/>
+      <steps/>
+    </test-case>
+    <test-case start="1553331468013" status="broken" stop="1553331468013">
+      <name>meihg_tips_test</name>
+      <failure>
+        <message>failed</message>
+        <stack-trace>import file mismatch:
+imported module 'meihg_tips_test' has this __file__ attribute:
+  E:\git\steelphone_api_test02\test_case\meihg_tips_test.py
+which is not the same as the test file we want to collect:
+  D:\win7�ļ�\git\steelphone_api_test02\test_case\meihg_tips_test.py
+HINT: remove __pycache__ / .pyc files and/or use a unique basename for your test file modules</stack-trace>
+      </failure>
+      <attachments/>
+      <labels/>
+      <steps/>
+    </test-case>
+    <test-case start="1553331468014" status="broken" stop="1553331468014">
+      <name>push_message_test</name>
+      <failure>
+        <message>failed</message>
+        <stack-trace>import file mismatch:
+imported module 'push_message_test' has this __file__ attribute:
+  E:\git\steelphone_api_test02\test_case\push_message_test.py
+which is not the same as the test file we want to collect:
+  D:\win7�ļ�\git\steelphone_api_test02\test_case\push_message_test.py
+HINT: remove __pycache__ / .pyc files and/or use a unique basename for your test file modules</stack-trace>
+      </failure>
+      <attachments/>
+      <labels/>
+      <steps/>
+    </test-case>
+    <test-case start="1553331468014" status="broken" stop="1553331468014">
+      <name>qihuo_sqs_test</name>
+      <failure>
+        <message>failed</message>
+        <stack-trace>import file mismatch:
+imported module 'qihuo_sqs_test' has this __file__ attribute:
+  E:\git\steelphone_api_test02\test_case\qihuo_sqs_test.py
+which is not the same as the test file we want to collect:
+  D:\win7�ļ�\git\steelphone_api_test02\test_case\qihuo_sqs_test.py
+HINT: remove __pycache__ / .pyc files and/or use a unique basename for your test file modules</stack-trace>
+      </failure>
+      <attachments/>
+      <labels/>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

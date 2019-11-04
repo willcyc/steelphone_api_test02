@@ -6,7 +6,7 @@ from parameterized import parameterized
 '''价格-选择品种页面'''
 Url = "https://mysteelapi.steelphone.com/v4/market/breed.htm?"
 
-@parameterized.expand([
+@parameterized.expand([   #ddt
 	#用例名称，参数：userId、machineCode，实际结果，预期结果
 	("both_null",'','','breeds',9),
 	("userId_null",'','2ACCCCDC5FBDBE59ADD70F1C100FE4BB','breeds',9),
@@ -17,7 +17,7 @@ Url = "https://mysteelapi.steelphone.com/v4/market/breed.htm?"
 
 def test_case(_,type,id,a,c):
 	result = requests.post(Url,params = {'userId':type,'machineCode':id}).json()
-	#print(result)
+	print(result)
 	#assert result[a] == c
 	assert len(result[a]) == c
 

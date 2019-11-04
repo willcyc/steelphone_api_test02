@@ -9,6 +9,8 @@ def test_creat_success():
 	r = requests.post(Url,params = payload)
 	code = r.status_code
 	result = r.json()
+	# print(result)
+	# print(result['result'])
 	assert code == 200
 	assert result['result'] == 'true'
 

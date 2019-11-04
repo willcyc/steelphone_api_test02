@@ -10,7 +10,7 @@ def test_get_success():
 	code = r.status_code
 	assert code == 200
 	result = r.json()
-	#print(result)
+	print(result)
 	priceList = ['元/吨', '元/千克', '元/个', '元/卷', '元/米', '元/平米']
 	numList = ['吨', '千克', '个', '卷', '米', '平米']
 	assert result['priceList'] == priceList

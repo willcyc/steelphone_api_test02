@@ -10,7 +10,7 @@ def test_get_success():
 	code = r.status_code
 	assert code == 200
 	result = r.json()
-	#print(result)
+	print(result)
 	assert result['info'] == '为了给您提供更专业的煤化工服务，本版块信息已停更，更多资讯关注“隆众石化通APP”获取'
 	assert result['phone'] == '0533-2591688'
 
